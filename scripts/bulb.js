@@ -1,5 +1,5 @@
 function on(){
-    document.getElementById('bulbImage').src='accets/pic_bulbon.gif'
+    document.getElementById('bulbImage').src="../assets/pic_bulbon.gif";
 }
 function dim(){
 
